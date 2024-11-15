@@ -1,0 +1,26 @@
+.main {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.main-title {
+    font-size: 32px;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.cart {
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.search-form {
+    display: flex;
+    justify-content: space-between;
+}
